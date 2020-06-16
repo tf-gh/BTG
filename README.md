@@ -12,10 +12,10 @@ The final report of Least Authority's security assessment is:
 - [Security Audit Report – BTG Pactual](Least%20Authority%20-%20BTG%20Pactual%20Updated%20Final%20Security%20Audit%20Report.pdf)
 
 The files or code mentioned in Least Authority's security assessment report are:
-- [tezos-btg.tar.gz]()
-- [tezos-btg-master-d216ad2deb70af83b9b39926102453638e4e0e97.zip]()
-- [tezos-token-dashboard-c52e7f71ef3cdd2c3ea107d32b76248bc490c8a8.zip]()
-- [tezos-token-dashboard-ffec42d9161b919d253c865392a5530675ea46bd.zip]()
+- [tezos-btg.tar.gz](tezos-btg.tar.gz)
+- [tezos-btg-master-d216ad2deb70af83b9b39926102453638e4e0e97.zip](tezos-btg-master-d216ad2deb70af83b9b39926102453638e4e0e97.zip)
+- [tezos-token-dashboard-c52e7f71ef3cdd2c3ea107d32b76248bc490c8a8.zip](tezos-token-dashboard-c52e7f71ef3cdd2c3ea107d32b76248bc490c8a8.zip)
+- [tezos-token-dashboard-ffec42d9161b919d253c865392a5530675ea46bd.zip](tezos-token-dashboard-ffec42d9161b919d253c865392a5530675ea46bd.zip)
 
 ## Disclaimer
 The code code has been created by developers of the Tezos community. The Tezos Foundation instructed Least Authority to perform a security assessment on the code for the benefit of the Tezos community in order to increase the transparency.
